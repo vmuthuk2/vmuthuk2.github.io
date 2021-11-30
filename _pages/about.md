@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate in the FREEDM System Center and Department of Electrical Engineering at North Carolina State University. I specialize in 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome! I am a Ph.D. candidate in the [FREEDM System Center](https://www.freedm.ncsu.edu) and [Department of Electrical Engineering](https://ece.ncsu.edu) at [North Carolina State University](https://www.ncsu.edu). I specialize in smart grid monitoring, control and operation especially with high renewable penetration. I earned my master degree in Electrical Engineering from [North Carolina State University](https://ww.ncsu.edu) as well and my B.Tech in Electrical and Electronics Engineering from [National Institute of Technology, Trichy](https://www.nitt.edu).
+
+My research explores the difficulties and possible solutions to restore smart distribution systems with high renewable penetration after extreme outages using microgrids.
 
 A data-driven personal website
 ======
