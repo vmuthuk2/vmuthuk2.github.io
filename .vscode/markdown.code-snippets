@@ -1,0 +1,27 @@
+{
+    "Markdown link": {
+        "scope": "markdown",
+        "prefix": "link",
+        "body": "[$1]($2)"
+    },
+    "Markdown post link": {
+        "scope": "markdown",
+        "prefix": "post",
+        "body": "[$1]({{ site.baseurl }}{% post_url $2 %})"
+    },
+    "Markdown post anchor link": {
+        "scope": "markdown",
+        "prefix": "anchor",
+        "body": "[$1]({{ site.baseurl }}{% post_url $2 %}#$3)"
+    },
+    "Markdown image": {
+        "scope": "markdown",
+        "prefix": "image",
+        "body": "![$1]({{ site.baseurl }}/assets/images/$2)"
+    },
+    "Markdown video": {
+        "scope": "markdown",
+        "prefix": "video",
+        "body": "{% include youtube.html id=\"$1\" %}"
+    }
+}
