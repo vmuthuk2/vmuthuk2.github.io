@@ -86,11 +86,11 @@ analytics:
 author:
   name             : "Valliappan Muthukaruppan"
   avatar           : "valli.jpg"
-  bio              : "PhD candidate at NC State University in Electrical Engineering with a minor in Statistics"
+  bio              : "PhD candidate in Electrical Engineering with a minor in Statistics"
   location         : "Raleigh, NC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=Se-X6lUAAAAJ&hl=en"
   email            : "vmuthuk2@ncsu.edu"
   researchgate     : "https://www.researchgate.net/profile/Valliappan-Muthukaruppan" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
