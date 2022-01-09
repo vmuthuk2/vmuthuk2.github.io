@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<object data="../files/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
-You can download a PDF copy of my CV [here](../files/cv.pdf)
+<iframe src="/files/cv.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<!-- <object data="../files/cv.pdf" width="1000" height="1000" type='application/pdf'></object> -->
+You can download a PDF copy of my CV [here](/files/cv.pdf)
 
 <!--
 Education
