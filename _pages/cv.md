@@ -9,23 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="../files/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
+You can download a PDF copy of my CV [here](../files/cv.pdf)
+
+<!--
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in **Electrical Engineering** with **Minor** in **Statistics**,   
+North Carolina State University, 2022 (expected)
+* M.S. in **Electrical Engineering**,  
+North Carolina State University, 2018 
+* B.Tech in **Electrical and Electronics Engineering**,  
+National Institute of Technology (NIT) Trichy, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2017 -- Present: Graduate Research Assistant
+  * [FREEDM System Center](https://www.freedm.ncsu.edu/),  
+  North Carolina State University, Raleigh, NC
+  * Completed various academic and industry research  
+  projects on smart distribution system modeling,  
+  control and operation.
+  * Supervisor: Dr. Mesut E. Baran
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2019 -- Aug 2019: SynchroPhasor Distribution Intern
+  * ABB US Corporate Research Center (USCRC), Raleigh, NC
+  * Developed microgrid model using IEEE 123 node system  
+  for testing the impact of $\mu$-Synchrophasors on islanding  
+  detection of the microgrid.
+  * Supervisor: Dr. Dimitry Ischenko
   
 Skills
 ======
@@ -57,3 +69,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
