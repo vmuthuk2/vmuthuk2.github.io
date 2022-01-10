@@ -12,6 +12,7 @@ Welcome to my personal portfolio website! I am a **Ph.D. candidate** in the [FRE
 
 My research explores the difficulties and possible solutions to restore smart distribution systems with high renewable penetration after extreme outages using microgrids. I also have expertise in smart meter data analytics and data-driven operation of power systems. 
 
+<span style="color:red">**Actively looking for full-time job opportunities**</span>
 <!---
 You can find more information about my publications and talks here.
 --->
